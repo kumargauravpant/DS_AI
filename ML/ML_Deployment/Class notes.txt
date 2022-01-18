@@ -1,0 +1,81 @@
+
+Creating the 
+
+conda --version
+
+creating the environment
+-------------------------
+conda create -n deployment python=3.8
+
+conda env list
+
+activating deployment
+---------------------
+conda activate deployment
+
+pip list
+
+pip freeze > requirement.txt
+
+pip install -r requirement.txt
+
+github.com/Afsaan --> Saving_ML_model
+
+
+Flask
+----
+activate environment
+install flask - pip install flask
+127.0.0.1 - it is a local host
+
+fg might work if ^z is pressed. then do ^c to quit AND RERUN
+
+https://www.heroku.com/
+https://signup.heroku.com/t/platform?c=7013A000000ib1xQAA
+https://portal.aws.amazon.com/billing/signup
+
+install pip in AWS
+sudo apt-get update && sudo apt-get install python3-pip
+
+pip3 install -r requirement.txt
+sudo apt-get install nano
+remove debud=true
+add- app.run(host='0.0.0.0', port=8080)
+setup firewall in aws - allow access for all - create security group
+
+HW - nlp - heroku , spam dectetor - aws
+
+
+NLP LInk
+-----------
+https://drive.google.com/drive/folders/1szWwasH-Avz3NzhFMsMh2RRRMG6a_XeN?usp=sharing
+
+project session drive link 
+------------------------------
+https://drive.google.com/drive/folders/14DppZP7-bmFOwPQz2ib4byAN1leQSzl8?usp=sharing
+
+Rahul Learnbay
+---------------
+rahul10412@gmail.com
+9934614694
+
+
+deploy link
+--------------
+https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/wsj/wmls/wmls-deploy-overview.html
+
+https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/wsj/analyze-data/ml-samples-overview.html
+
+hrishikesh.pathak@in.ibm.com
+
+check - SPSS Modelar
+
+
+R
+===
+
+https://drive.google.com/file/d/1PEkQ_tQFECaMTx6UzBmF1s42QMLY92Es/view?usp=sharing
+From Sarma PV to Everyone:  09:51 AM
+https://drive.google.com/file/d/1PEkQ_tQFECaMTx6UzBmF1s42QMLY92Es/view
+
+
